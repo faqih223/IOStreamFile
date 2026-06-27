@@ -1,0 +1,5 @@
+Laptop Asus,8500000.0,5
+Mouse Wireless,150000.0,15
+Kemeja Flanel,200000.0,20
+Kopi Susu,15000.0,50
+Buku Tulis,7000.0,100
